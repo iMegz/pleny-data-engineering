@@ -1,0 +1,102 @@
+[
+  {
+    "brandName": "Rosenbaum - Price",
+    "yearFounded": 1913,
+    "headquarters": "New Altheaside",
+    "numberOfLocations": 3,
+    "_id": "660c58a02df4759328620dba",
+    "__v": 0,
+    "createdAt": "2024-04-02T19:12:32.513Z",
+    "updatedAt": "2024-04-02T19:12:32.513Z"
+  },
+  {
+    "brandName": "Breitenberg, Bashirian and Reinger",
+    "yearFounded": 1938,
+    "headquarters": "Ortizport",
+    "numberOfLocations": 8,
+    "_id": "660c58a02df4759328620dbb",
+    "__v": 0,
+    "createdAt": "2024-04-02T19:12:32.514Z",
+    "updatedAt": "2024-04-02T19:12:32.514Z"
+  },
+  {
+    "brandName": "Bartoletti - Aufderhar",
+    "yearFounded": 1656,
+    "headquarters": "Vonstead",
+    "numberOfLocations": 2,
+    "_id": "660c58a02df4759328620dbc",
+    "__v": 0,
+    "createdAt": "2024-04-02T19:12:32.514Z",
+    "updatedAt": "2024-04-02T19:12:32.514Z"
+  },
+  {
+    "brandName": "Zulauf, O'Reilly and Jacobson",
+    "yearFounded": 1857,
+    "headquarters": "South Aidan",
+    "numberOfLocations": 3,
+    "_id": "660c58a02df4759328620dbd",
+    "__v": 0,
+    "createdAt": "2024-04-02T19:12:32.515Z",
+    "updatedAt": "2024-04-02T19:12:32.515Z"
+  },
+  {
+    "brandName": "Ortiz, Kunde and Rippin",
+    "yearFounded": 1760,
+    "headquarters": "South Austin",
+    "numberOfLocations": 9,
+    "_id": "660c58a02df4759328620dbe",
+    "__v": 0,
+    "createdAt": "2024-04-02T19:12:32.515Z",
+    "updatedAt": "2024-04-02T19:12:32.515Z"
+  },
+  {
+    "brandName": "Johns, Fritsch and Emard",
+    "yearFounded": 1719,
+    "headquarters": "Port Louvenia",
+    "numberOfLocations": 8,
+    "_id": "660c58a02df4759328620dbf",
+    "__v": 0,
+    "createdAt": "2024-04-02T19:12:32.515Z",
+    "updatedAt": "2024-04-02T19:12:32.515Z"
+  },
+  {
+    "brandName": "Little - Raynor",
+    "yearFounded": 1762,
+    "headquarters": "Homenickview",
+    "numberOfLocations": 3,
+    "_id": "660c58a02df4759328620dc0",
+    "__v": 0,
+    "createdAt": "2024-04-02T19:12:32.515Z",
+    "updatedAt": "2024-04-02T19:12:32.515Z"
+  },
+  {
+    "brandName": "Robel, Muller and Fisher",
+    "yearFounded": 1885,
+    "headquarters": "Maudside",
+    "numberOfLocations": 3,
+    "_id": "660c58a02df4759328620dc1",
+    "__v": 0,
+    "createdAt": "2024-04-02T19:12:32.515Z",
+    "updatedAt": "2024-04-02T19:12:32.515Z"
+  },
+  {
+    "brandName": "Jast Group",
+    "yearFounded": 2007,
+    "headquarters": "Kovacekview",
+    "numberOfLocations": 2,
+    "_id": "660c58a02df4759328620dc2",
+    "__v": 0,
+    "createdAt": "2024-04-02T19:12:32.516Z",
+    "updatedAt": "2024-04-02T19:12:32.516Z"
+  },
+  {
+    "brandName": "Batz and Sons",
+    "yearFounded": 1916,
+    "headquarters": "West Laurynville",
+    "numberOfLocations": 9,
+    "_id": "660c58a02df4759328620dc3",
+    "__v": 0,
+    "createdAt": "2024-04-02T19:12:32.516Z",
+    "updatedAt": "2024-04-02T19:12:32.516Z"
+  }
+]
