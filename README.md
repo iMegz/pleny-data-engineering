@@ -4,7 +4,7 @@ This is a my solution to data engineering task by **Pleny**
 
 ## Tech Stack
 
-[![Tech Stack](https://skillicons.dev/icons?i=typescript,nestjs,mongodb)](https://github.com/iMegz/pleny-data-engineering) <img src="https://zod.dev/logo.svg" alt="zod" height="48">
+[![Tech Stack](https://skillicons.dev/icons?i=typescript,nestjs,mongodb)](https://github.com/iMegz/pleny-data-engineering) [<img src="https://zod.dev/logo.svg" alt="zod" height="48" />](https://github.com/iMegz/pleny-data-engineering)
 
 ## Folder Structure
 
@@ -55,7 +55,8 @@ This is a my solution to data engineering task by **Pleny**
   - `result` : will hold the result of transformation
 
   - `altKey(prop, regex, condition, [{[deep], [defaultValue], [transformValue]}])` : try to find alternative key holding a proper value for the property `prop` using `regex` to find a key similar in name then filter keys based on `condition` function.
-    `deep` if set `true` will search for nested keys `ex: {brand : {name : "Value"}}`.
+
+  `deep` if set `true` will search for nested keys `ex: {brand : {name : "Value"}}`.
 
   `defaultValue` if set, it will be used in case no key matched conditions otherwise will not make any changes
 
